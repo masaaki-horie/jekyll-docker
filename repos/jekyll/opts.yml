@@ -12,9 +12,11 @@ gems:
     - jekyll-paginate
     - jekyll-compose
     - jekyll-assets
+    - jekyll-watch
     - RedCloth
     - kramdown
     - jemoji
+    - webrick
   group:
     relative: &relative
       - jekyll-redirect-from
